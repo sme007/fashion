@@ -516,14 +516,14 @@ p.codrops-demos{
             font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
             font-size: 50px;
             padding: 0;
-            line-height: 500px;
+            line-height: 250px;
             margin-left: auto;
             margin-right: 48px; 
             
         }
         .explore .btn {
-            margin-top: 5%;
-            margin-left: -5%;
+            margin-top: -25%;
+            margin-left: -20%;
             padding: 2px 30px;
             border-radius: 10px;
           }
@@ -562,54 +562,14 @@ p.codrops-demos{
         font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
         font-size: 40px;
         padding: 0;
-        line-height: 600px;
+        line-height: 300px;
         margin-left: auto;
         margin-right: 48px; 
         
     }
     .explore .btn {
         margin-top: 1%;
-        margin-left: -17%;
-        padding: 2px 20px;
-        border-radius: 10px;
-      }
-      .btn p {
-          font-size: 6px;
-      }
-}
-@media only screen and (max-width: 667px) {
-    .container ul li {
-    width: 50%;
-    margin-left: 20px;
-    }
-    img {
-    width: 100%;
-    height: auto;
-    }
-     p {
-    margin-bottom:10px;
-    margin-top:10px;
-    font-size: 20px;
-
-    }
-    .topnav {
-        display: block;
-      }
-      .header {
-          display: none;
-      }
-    .cb-slideshow li div h3 { 
-        font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-        font-size: 30px;
-        padding: 0;
-        line-height: 250px;
-        margin-left: auto;
-        margin-right: 48px; 
-       
-    }
-    .explore .btn {
-        margin-top: -13%;
-        margin-left: -17%;
+        margin-left: -25%;
         padding: 2px 20px;
         border-radius: 10px;
       }
@@ -650,7 +610,7 @@ p.codrops-demos{
         }
         .explore .btn {
             margin-top: 100%;
-            margin-left: -24%;
+            margin-left: -26%;
             padding: 1px 10px;
             border-radius: 10px;
           }
