@@ -473,12 +473,12 @@ p.codrops-demos{
     }
     .cb-slideshow li div h3 { 
         font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-        font-size: 170px;
+        font-size: 80px;
         padding: 0;
-        line-height: 200px; 
+        line-height: 300px; 
     }
     .explore .btn {
-        margin-top: 5%;
+        margin-top: -2%;
         margin-left: -5%;
         padding: 5px 30px;
         border-radius: 10px;
@@ -514,12 +514,12 @@ p.codrops-demos{
           }
         .cb-slideshow li div h3 { 
             font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-            font-size: 70px;
+            font-size: 50px;
             padding: 0;
             line-height: 500px;
             margin-left: auto;
             margin-right: 48px; 
-            color: red;
+            
         }
         .explore .btn {
             margin-top: 5%;
@@ -565,7 +565,7 @@ p.codrops-demos{
         line-height: 600px;
         margin-left: auto;
         margin-right: 48px; 
-        color: red;
+        
     }
     .explore .btn {
         margin-top: 1%;
@@ -579,7 +579,7 @@ p.codrops-demos{
 }
 @media only screen and (max-width: 667px) {
     .container ul li {
-    width: 40%;
+    width: 50%;
     margin-left: 20px;
     }
     img {
@@ -600,12 +600,12 @@ p.codrops-demos{
       }
     .cb-slideshow li div h3 { 
         font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-        font-size: 40px;
+        font-size: 30px;
         padding: 0;
         line-height: 250px;
         margin-left: auto;
         margin-right: 48px; 
-        color: red;
+       
     }
     .explore .btn {
         margin-top: -13%;
@@ -621,7 +621,7 @@ p.codrops-demos{
 
 @media only screen and (max-width: 400px) {
     .container ul li {
-        width: 40%;
+        width: 100%;
         margin-left: 20px;
         }
         img {
@@ -646,7 +646,7 @@ p.codrops-demos{
             line-height: 600px;
             margin-left: auto;
             margin-right: 48px; 
-            color: red;
+          
         }
         .explore .btn {
             margin-top: 100%;
@@ -677,7 +677,7 @@ p.codrops-demos{
 
 @media only screen and (max-width: 230px) {
     .container ul li {
-    width: 85%;
+    width: 100%;
     margin-left: 20px;
     }
     img {
@@ -685,7 +685,7 @@ p.codrops-demos{
     height: auto;
     }
     .container ul li {
-        width: 40%;
+        width: 100%;
         margin-left: 20px;
         }
         img {
@@ -710,7 +710,7 @@ p.codrops-demos{
             line-height: 600px;
             margin-left: auto;
             margin-right: 48px; 
-            color: red;
+            
         }
         .explore .btn {
             margin-top: 120%;
