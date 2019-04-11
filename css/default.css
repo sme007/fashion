@@ -512,19 +512,19 @@ p.codrops-demos{
           .header {
               display: none;
           }
-        .cb-slideshow li div h3 { 
+          .cb-slideshow li div h3 { 
             font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-            font-size: 50px;
+            font-size: 40px;
             padding: 0;
-            line-height: 250px;
+            line-height: 300px;
             margin-left: auto;
             margin-right: 48px; 
             
         }
         .explore .btn {
-            margin-top: -25%;
-            margin-left: -20%;
-            padding: 2px 30px;
+            margin-top: 1%;
+            margin-left: -25%;
+            padding: 2px 20px;
             border-radius: 10px;
           }
           .btn p {
@@ -556,7 +556,7 @@ p.codrops-demos{
         display: block;
       }
       .header {
-          display: block;
+          display: none;
       }
     .cb-slideshow li div h3 { 
         font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
